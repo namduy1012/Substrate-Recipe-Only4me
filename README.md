@@ -1,12 +1,6 @@
 ## Get Started
 
-Ready to roll up your sleeves and cook some blockchain? Read the book online at
-[substrate.recipes](https://substrate.recipes) 😋
-
-## License
-
-The Substrate Recipes are [GPL 3.0 Licensed](LICENSE) It is open source and
-[open for contributions](./CONTRIBUTING.md).
+Read the book online at[substrate.recipes](https://substrate.recipes) 😋
 
 ## Note for Installation (I used in my local computer)
 
