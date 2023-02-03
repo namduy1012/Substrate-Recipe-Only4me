@@ -1,6 +1,6 @@
 ## Get Started
 
-Read the book online at[substrate.recipes](https://substrate.recipes) 😋
+Read the book online at [substrate.recipes](https://substrate.recipes) 😋
 
 ## Note for Installation (I used in my local computer)
 
